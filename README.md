@@ -1,6 +1,6 @@
 # Hi 👋, I'm Lucsan
 
-### A Brazilian QA Engineer
+### A Brazilian Software/QA Engineer
 
 - 📫 How to reach me **lookmachado@gmail.com**
 
